@@ -7,7 +7,8 @@
 * ./restore.sh
 
 ## How to backup:
-./backup.sh
+* Install Shell command in vscode
+* ./backup.sh
 
 If you want, you can use manual commands:
  - ```code --list-extensions > extensions.list``` to create your package list and then
