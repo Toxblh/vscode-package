@@ -1,0 +1,28 @@
+{
+    "clock.dateFormat": "dd.mm.yyyy HH:MM",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+    "extensions.autoUpdate": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#252526",
+        "statusBar.noFolderBackground": "#0A0A0D",
+        "statusBar.debuggingBackground": "#511f1f"
+    },
+    "window.zoomLevel": 0,
+    "git.enableSmartCommit": true,
+    "files.exclude": {},
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.eslintIntegration": true,
+    "prettier.printWidth": 200,
+    "cSpell.userWords": [
+        "pcss"
+    ]
+}
