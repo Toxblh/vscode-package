@@ -1,3 +1,5 @@
+![vscode-package](https://user-images.githubusercontent.com/2198153/29383357-cc9f6d0a-82d8-11e7-9396-fe1d45740e18.png)
+
 ## How to install packages and settings vscode:
 * Add in you system font https://github.com/tonsky/FiraCode
 * git clone https://github.com/Toxblh/vscode-package.git
