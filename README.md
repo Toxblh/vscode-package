@@ -3,7 +3,7 @@
 ## How to install packages and settings vscode:
 ### First step. Add command `code` in your system
 * Launch VS Code.
-* Open the **Command Palette** (`kb(workbench.action.showCommands)`) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
+* Open the **Command Palette** (⇧⌘P) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
 
 ![Mac shell commands](https://code.visualstudio.com/assets/docs/setup/mac/shell-command.png)
 
