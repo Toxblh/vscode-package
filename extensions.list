@@ -17,6 +17,7 @@ fbosch.battery-indicator
 file-icons.file-icons
 formulahendry.code-runner
 humao.rest-client
+jpoissonnier.vscode-styled-components
 lukehoban.Go
 ms-python.python
 ms-vscode.cpptools
