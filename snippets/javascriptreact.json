@@ -1,0 +1,75 @@
+{
+  "Print to console": {
+    "prefix": "lg",
+    "body": ["console.log($1)"],
+    "description": "Log output to console"
+  },
+
+  "Print to console with text": {
+    "prefix": "log",
+    "body": ["console.log('$1', $1)"],
+    "description": "Log output to console"
+  },
+
+  "React component": {
+    "prefix": "rc",
+    "body": [
+      "import React, { Component } from 'react'\n",
+      "class $1 extends Component {",
+      "\trender() {",
+      "\t\treturn <div></div>",
+      "\t}",
+      "}\n",
+      "export default $1"
+    ]
+  },
+
+  "React component propTypes": {
+    "prefix": "rcp",
+    "body": [
+      "import React, { Component } from 'react'",
+      "import PropTypes from 'prop-types'\n",
+      "class $1 extends Component {",
+      "\tstatic propTypes = {",
+      "\t\ttest: PropTypes.string,",
+      "\t}\n",
+      "\trender() {",
+      "\t\treturn <div></div>",
+      "\t}",
+      "}\n",
+      "export default $1"
+    ]
+  },
+
+  "React component connect": {
+    "prefix": "rcc",
+    "body": [
+      "import React, { Component } from 'react'",
+      "import { connect } from 'react-redux'\n",
+      "class $1 extends Component {",
+      "\trender() {",
+      "\t\treturn <div></div>",
+      "\t}",
+      "}\n",
+      "export default connect(state => ({}), {})\n($1)"
+    ]
+  },
+
+  "React component connect PropTypes": {
+    "prefix": "rccp",
+    "body": [
+      "import React, { Component } from 'react'",
+      "import PropTypes from 'prop-types'",
+      "import { connect } from 'react-redux'\n",
+      "class $1 extends Component {",
+      "\tstatic propTypes = {",
+      "\t\ttest: PropTypes.string,",
+      "\t}\n",
+      "\trender() {",
+      "\t\treturn <div></div>",
+      "\t}",
+      "}\n",
+      "export default connect(state => ({}), {})($1)"
+    ]
+  }
+}

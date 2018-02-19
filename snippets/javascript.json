@@ -1,0 +1,13 @@
+{
+  "Print to console": {
+    "prefix": "log",
+    "body": ["console.log('$1')", "$2"],
+    "description": "Log output to console"
+  },
+
+  "Print to test": {
+    "prefix": "tsss",
+    "body": ["console.log('$1')", "$2"],
+    "description": "Log output to console"
+  }
+}

@@ -4,10 +4,11 @@
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.tabSize": 4,
-  "editor.minimap.enabled": false,
+  "editor.minimap.enabled": true,
   "extensions.autoUpdate": true,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
+  "files.useExperimentalFileWatcher": true,
   "workbench.colorTheme": "One Dark Pro",
   "workbench.iconTheme": "file-icons",
   "workbench.colorCustomizations": {
@@ -22,4 +23,6 @@
   "prettier.singleQuote": true,
   "prettier.eslintIntegration": true,
   "prettier.printWidth": 90,
+  "gitlens.gitExplorer.files.layout": "tree",
+  "diffEditor.ignoreTrimWhitespace": true,
 }
