@@ -1,0 +1,28 @@
+{
+  "Print to console": {
+    "prefix": "log",
+    "body": ["console.log('$1')", "$2"],
+    "description": "Log output to console"
+  },
+
+  "Print to test": {
+    "prefix": "tsss",
+    "body": ["console.log('$1')", "$2"],
+    "description": "Log output to console"
+  },
+
+  "React component": {
+    "prefix": "rcc",
+    "body": [
+      "import React, { Component } from 'react'",
+      "import { connect } from 'react-redux'",
+      "class $1 extends Component {",
+      "\trender() {",
+      "\t\treturn <div></div>",
+      "\t}",
+      "}",
+      "\n",
+      "export default connect(state => ({}), {})($1)"
+    ]
+  }
+}
