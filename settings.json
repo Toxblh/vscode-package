@@ -2,7 +2,7 @@
   "clock.dateFormat": "dd.mm.yyyy HH:MM",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "editor.fontSize": 14,
+  "editor.fontSize": 13,
   "editor.tabSize": 4,
   "editor.minimap.enabled": false,
   "editor.formatOnSave": false,
@@ -32,8 +32,20 @@
   "gitlens.historyExplorer.enabled": true,
   "jest.pathToJest": "yarn test --",
   "jest.showCoverageOnLoad": true,
-  "window.zoomLevel": 0,
   "workbench.colorTheme": "One Dark Pro",
   "editor.formatOnType": true,
   "workbench.fontAliasing": "antialiased",
+  "explorer.confirmDelete": false,
+  "prettier.tslintIntegration": true,
+  "githubPullRequests.hosts": [
+    { "host": "https://github.com", "token": "Put_Your_Token" }
+  ],
+  "window.zoomLevel": 0,
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "typescriptHero.imports.insertSemicolons": false,
+  "editor.renderWhitespace": "all",
+  "gitlens.views.repositories.files.layout": "tree",
+  "gitlens.views.fileHistory.enabled": true,
+  "gitlens.views.lineHistory.enabled": true,
+  "rest-client.previewOption": "headers"
 }
