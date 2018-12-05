@@ -20,7 +20,6 @@ GrapeCity.gc-excelviewer
 hoovercj.haskell-linter
 hoovercj.vscode-ghc-mod
 humao.rest-client
-idleberg.applescript
 jithurjacob.nbpreviewer
 jpoissonnier.vscode-styled-components
 justusadam.language-haskell
@@ -32,7 +31,6 @@ ms-vscode.cpptools
 ms-vscode.node-debug2
 ms-vscode.vscode-typescript-tslint-plugin
 msjsdiag.debugger-for-chrome
-ole1986.arma-dev
 Orta.vscode-jest
 PeterJausovec.vscode-docker
 Prisma.vscode-graphql
@@ -49,9 +47,6 @@ vscjava.vscode-java-debug
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
 vscjava.vscode-maven
-vscodevim.vim
-vsmobile.vscode-react-native
 wmaurer.change-case
-xabikos.ReactSnippets
 yassh.copy-with-line-numbers
 zhuangtongfa.Material-theme
