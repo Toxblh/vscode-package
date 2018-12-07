@@ -2,7 +2,7 @@
   "clock.dateFormat": "dd.mm.yyyy HH:MM",
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "editor.tabSize": 4,
   "editor.minimap.enabled": false,
   "editor.formatOnSave": false,
@@ -47,5 +47,6 @@
   "gitlens.views.repositories.files.layout": "tree",
   "gitlens.views.fileHistory.enabled": true,
   "gitlens.views.lineHistory.enabled": true,
-  "rest-client.previewOption": "headers"
+  "rest-client.previewOption": "headers",
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }

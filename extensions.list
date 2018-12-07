@@ -24,6 +24,7 @@ jithurjacob.nbpreviewer
 jpoissonnier.vscode-styled-components
 justusadam.language-haskell
 mikestead.dotenv
+mohsen1.react-javascript-to-typescript-transform-vscode
 ms-azuretools.vscode-cosmosdb
 ms-python.python
 ms-vscode.azure-account
@@ -44,6 +45,7 @@ vknabel.vscode-swiftformat
 vncz.vscode-apielements
 vsciot-vscode.vscode-arduino
 vscjava.vscode-java-debug
+vscjava.vscode-java-dependency
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
 vscjava.vscode-maven
