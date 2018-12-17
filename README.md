@@ -1,6 +1,6 @@
 ![vscode-package](https://user-images.githubusercontent.com/2198153/29383357-cc9f6d0a-82d8-11e7-9396-fe1d45740e18.png)
 
-## How to install packages and settings vscode:
+## How to install packages and settings vscode for MacOS:
 ### First step. Add command `code` in your system
 * Launch VS Code.
 * Open the **Command Palette** (⇧⌘P) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
@@ -33,5 +33,10 @@ EOF
 If you want, you can use manual commands:
  - ```code --list-extensions > extensions.list``` to create your package list and then
  - ```cp ~/Library/Application\ Support/Code/User/settings.json ./settings.json``` to copy settings
+
+
+## Same for Windows:
+* For restore use `.\restore.bat`
+* For backup use `.\backup.bat`
 
 License MIT
