@@ -47,6 +47,12 @@
   "gitlens.views.repositories.files.layout": "tree",
   "gitlens.views.fileHistory.enabled": true,
   "gitlens.views.lineHistory.enabled": true,
-  "rest-client.previewOption": "headers",
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "tizentv.targetDeviceAddress": "192.168.1.3:26101",
+  "tizentv.tizenStudioLocation": "~/tizen-studio",
+  "tizentv.simulatorLocation": "~/tizen-studio",
+  "tizentv.logLevel": "INFO",
+  "tizentv.chromeExecutable": "/Applications/Google Chrome.app "
 }

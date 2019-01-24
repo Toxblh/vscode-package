@@ -1,6 +1,8 @@
 Compulim.vscode-clock
 Tyriar.sort-lines
+ajhyndman.vscode-svgo
 attilabuti.vscode-mjml
+auchenberg.vscode-browser-preview
 CoenraadS.bracket-pair-colorizer
 cssho.vscode-svgviewer
 dbaeumer.vscode-eslint
@@ -8,10 +10,10 @@ digitalstreamio.mjml-syntax
 DotJoshJohnson.xml
 eamodio.gitlens
 EditorConfig.EditorConfig
-eg2.tslint
 esbenp.prettier-vscode
 fbosch.battery-indicator
 file-icons.file-icons
+flowtype.flow-for-vscode
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 formulahendry.code-runner
@@ -23,6 +25,8 @@ humao.rest-client
 jithurjacob.nbpreviewer
 jpoissonnier.vscode-styled-components
 justusadam.language-haskell
+Kasik96.swift
+kiadstudios.vscode-swift
 mikestead.dotenv
 mohsen1.react-javascript-to-typescript-transform-vscode
 ms-azuretools.vscode-cosmosdb
@@ -39,8 +43,13 @@ quicktype.quicktype
 rbbit.typescript-hero
 redhat.java
 richie5um2.vscode-sort-json
+ritwickdey.LiveServer
 shyykoserhiy.vscode-spotify
 slevesque.vscode-hexdump
+sterin.xcodebuild-tools
+tizensdk.tizentv
+vadimcn.vscode-lldb
+VisualStudioExptTeam.vscodeintellicode
 vknabel.vscode-swiftformat
 vncz.vscode-apielements
 vsciot-vscode.vscode-arduino
