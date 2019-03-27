@@ -15,7 +15,7 @@
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "prettier.eslintIntegration": true,
-  "prettier.printWidth": 90,
+  "prettier.printWidth": 110,
   "gitlens.gitExplorer.files.layout": "tree",
   "diffEditor.ignoreTrimWhitespace": true,
   "gitlens.keymap": "alternate",
@@ -32,14 +32,10 @@
   "gitlens.historyExplorer.enabled": true,
   "jest.pathToJest": "yarn test --",
   "jest.showCoverageOnLoad": true,
-  "workbench.colorTheme": "One Dark Pro",
   "editor.formatOnType": true,
   "workbench.fontAliasing": "antialiased",
   "explorer.confirmDelete": false,
   "prettier.tslintIntegration": true,
-  "githubPullRequests.hosts": [
-    { "host": "https://github.com", "token": "Put_Your_Token" }
-  ],
   "window.zoomLevel": 0,
   "java.errors.incompleteClasspath.severity": "ignore",
   "typescriptHero.imports.insertSemicolons": false,
@@ -54,5 +50,30 @@
   "tizentv.tizenStudioLocation": "~/tizen-studio",
   "tizentv.simulatorLocation": "~/tizen-studio",
   "tizentv.logLevel": "INFO",
-  "tizentv.chromeExecutable": "/Applications/Google Chrome.app "
+  "tizentv.chromeExecutable": "/Applications/Google Chrome.app ",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "breadcrumbs.enabled": true,
+  "terminal.integrated.rendererType": "dom",
+  "git.autofetch": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "eslint.provideLintTask": true,
+  "eslint.workingDirectories": ["./src"],
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "autoDarkMode.darkTheme": "One Dark Pro",
+  "autoDarkMode.lightTheme": "Atom One Light",
+  "workbench.colorTheme": "Atom One Light",
+
 }

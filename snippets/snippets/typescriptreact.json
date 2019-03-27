@@ -25,12 +25,12 @@
       "  render() {",
       "    return <div>{this.props}</div>",
       "  }",
-      "}",
-      "",
+	  "}",
+	  "",
       "export default connect(",
       "  (state: any) => ({}),",
       "  {},",
-      ")($1)\n"
+      ")($1)\n",
     ]
   },
 
@@ -45,8 +45,8 @@
       "  render() {",
       "    return <div>{this.props}</div>",
       "  }",
-      "}\n",
-      "export default $1\n"
+	  "}\n",
+	  "export default $1\n",
     ]
   }
 }
