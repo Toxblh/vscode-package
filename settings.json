@@ -74,6 +74,9 @@
   ],
   "autoDarkMode.darkTheme": "One Dark Pro",
   "autoDarkMode.lightTheme": "Atom One Light",
-  "workbench.colorTheme": "Atom One Light",
+  "workbench.colorTheme": "One Dark Pro",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 
 }

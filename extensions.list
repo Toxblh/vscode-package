@@ -39,6 +39,7 @@ ms-vscode.vscode-typescript-tslint-plugin
 msjsdiag.debugger-for-chrome
 Orta.vscode-jest
 PeterJausovec.vscode-docker
+platformio.platformio-ide
 Prisma.vscode-graphql
 quicktype.quicktype
 rbbit.typescript-hero
