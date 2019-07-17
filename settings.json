@@ -1,6 +1,6 @@
 {
   "clock.dateFormat": "dd.mm.yyyy HH:MM",
-  "editor.fontFamily": "Fira Code",
+  "editor.fontFamily": "FuraCode Nerd Font",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.tabSize": 4,
@@ -66,17 +66,39 @@
   "eslint.packageManager": "yarn",
   "eslint.provideLintTask": true,
   "eslint.workingDirectories": ["./src"],
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
   "autoDarkMode.darkTheme": "One Dark Pro",
   "autoDarkMode.lightTheme": "Atom One Light",
-  "workbench.colorTheme": "One Dark Pro",
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "C_Cpp.updateChannel": "Insiders",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.renderSideBySide": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "git.confirmSync": false,
+  "python.jediEnabled": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "workbench.colorTheme": "Atom One Light",
 }
