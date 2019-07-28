@@ -1,7 +1,7 @@
 ![vscode-package](https://user-images.githubusercontent.com/2198153/29383357-cc9f6d0a-82d8-11e7-9396-fe1d45740e18.png)
 
-## How to install packages and settings vscode for MacOS:
-### First step. Add command `code` in your system
+## How to install packages and settings vscode for MacOS, Linux and Windows:
+### First step. Add command `code` in your system if don't do that before
 * Launch VS Code.
 * Open the **Command Palette** (⇧⌘P) and type 'shell command' to find the **Shell Command: Install 'code' command in PATH** command.
 
@@ -22,6 +22,7 @@ EOF
 
 ### Second step. Install packages and settings
 * Add in you system the font https://github.com/tonsky/FiraCode
+* Or Nerd analog for full font with powerline https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode
 * `git clone https://github.com/Toxblh/vscode-package.git`
 * `cd vscode-package`
 * `./restore.sh`
@@ -29,11 +30,6 @@ EOF
 ## How to backup:
 * Install Shell command in vscode
 * `./backup.sh`
-
-If you want, you can use manual commands:
- - ```code --list-extensions > extensions.list``` to create your package list and then
- - ```cp ~/Library/Application\ Support/Code/User/settings.json ./settings.json``` to copy settings
-
 
 ## Same for Windows:
 * For restore use `.\restore.bat`
