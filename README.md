@@ -11,7 +11,7 @@
 
 >**Note:** If you still have the old `code` alias in your `.bash_profile` (or equivalent) from an early VS Code version, remove it and replace it by executing the **Shell Command: Install 'code' command in PATH** command.
 
-To manually add VS Code to your path:
+To manually add VS Code to your path on MacOS:
 
 ```bash
 cat << EOF >> ~/.bash_profile
@@ -19,6 +19,8 @@ cat << EOF >> ~/.bash_profile
 export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 EOF
 ```
+
+Manually on Windows, VS Code is installed under `AppData\Local\Programs\Microsoft VS Code\bin` to PATH environment variables
 
 ### Second step. Install packages and settings
 * Add in you system the font https://github.com/tonsky/FiraCode
