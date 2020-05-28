@@ -1,6 +1,6 @@
 {
   "clock.dateFormat": "dd.mm.yyyy HH:MM",
-  "editor.fontFamily": "FuraCode Nerd Font",
+  "editor.fontFamily": "FiraCode Nerd Font",
   "editor.fontLigatures": true,
   "editor.fontSize": 14,
   "editor.tabSize": 4,
@@ -101,4 +101,5 @@
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
   "workbench.colorTheme": "Atom One Light",
+  "terminal.integrated.shell.linux": "/usr/bin/zsh",
 }

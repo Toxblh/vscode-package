@@ -1,9 +1,10 @@
-Compulim.vscode-clock
 ajhyndman.vscode-svgo
 akamud.vscode-theme-onelight
 atlassian.atlascode
 attilabuti.vscode-mjml
 CoenraadS.bracket-pair-colorizer
+Compulim.vscode-clock
+coolbear.systemd-unit-file
 cssho.vscode-svgviewer
 Dart-Code.dart-code
 Dart-Code.flutter
@@ -44,7 +45,6 @@ ms-python.python
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
-ms-vscode-remote.remote-ssh-explorer
 ms-vscode-remote.remote-wsl
 ms-vscode-remote.vscode-remote-extensionpack
 ms-vscode.azure-account
@@ -65,6 +65,7 @@ ritwickdey.LiveServer
 shanoor.vscode-nginx
 slevesque.vscode-hexdump
 sterin.xcodebuild-tools
+TabNine.tabnine-vscode
 tizensdk.tizentv
 Toxblh.polacode-fork
 Tyriar.sort-lines
@@ -80,4 +81,4 @@ vscjava.vscode-maven
 wmaurer.change-case
 xaver.clang-format
 yassh.copy-with-line-numbers
-zhuangtongfa.Material-theme
+zhuangtongfa.material-theme
