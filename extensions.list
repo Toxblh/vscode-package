@@ -21,9 +21,11 @@ file-icons.file-icons
 formulahendry.auto-close-tag
 formulahendry.auto-rename-tag
 formulahendry.code-runner
+geddski.macros
 GitHub.vscode-pull-request-github
 GrapeCity.gc-excelviewer
 hangxingliu.vscode-nginx-conf-hint
+hbenl.vscode-test-explorer
 HookyQR.beautify
 hoovercj.haskell-linter
 hoovercj.vscode-ghc-mod
@@ -62,11 +64,13 @@ redhat.java
 redhat.vscode-yaml
 richie5um2.vscode-sort-json
 ritwickdey.LiveServer
+rtbenfield.vscode-jest-test-adapter
 shanoor.vscode-nginx
 slevesque.vscode-hexdump
 sterin.xcodebuild-tools
 TabNine.tabnine-vscode
 tizensdk.tizentv
+tomoki1207.pdf
 Toxblh.polacode-fork
 Tyriar.sort-lines
 vadimcn.vscode-lldb

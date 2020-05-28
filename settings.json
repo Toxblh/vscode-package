@@ -14,19 +14,12 @@
   "git.enableSmartCommit": true,
   "prettier.semi": false,
   "prettier.singleQuote": true,
-  "prettier.eslintIntegration": true,
   "prettier.printWidth": 110,
   "gitlens.gitExplorer.files.layout": "tree",
   "diffEditor.ignoreTrimWhitespace": true,
   "gitlens.keymap": "alternate",
   "gitlens.advanced.messages": {
-    "suppressCommitHasNoPreviousCommitWarning": false,
-    "suppressCommitNotFoundWarning": false,
-    "suppressFileNotUnderSourceControlWarning": false,
-    "suppressGitVersionWarning": false,
-    "suppressLineUncommittedWarning": false,
-    "suppressNoRepositoryWarning": false,
-    "suppressResultsExplorerNotice": false,
+    "suppressGitVersionWarning": true,
     "suppressShowKeyBindingsNotice": true
   },
   "gitlens.historyExplorer.enabled": true,
@@ -35,7 +28,6 @@
   "editor.formatOnType": true,
   "workbench.fontAliasing": "antialiased",
   "explorer.confirmDelete": false,
-  "prettier.tslintIntegration": true,
   "window.zoomLevel": 0,
   "java.errors.incompleteClasspath.severity": "ignore",
   "typescriptHero.imports.insertSemicolons": false,
@@ -76,7 +68,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.html-language-features"
   },
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -100,6 +92,9 @@
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
   },
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+  "files.maxMemoryForLargeFilesMB": 8196,
+  "terminal.integrated.shell.osx": "/bin/zsh",
   "workbench.colorTheme": "Atom One Light",
   "terminal.integrated.shell.linux": "/usr/bin/zsh",
 }
